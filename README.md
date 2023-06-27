@@ -5,13 +5,13 @@ Zdecydowałam się wziąć udział w projekcie, ponieważ poszukuję nowych wyzw
 ### Podsumowanie
 <TABLE>
 
-<TR style="text-align: center;> <TD><i> Dlaczego zdecydowałaś się wziąć udział w projekcie?</i></TD><TD> Dla frajdy z nauczenia się czegoś nowego </TD></TR>
+<TR style="text-align: center;> <TD><i> Dlaczego zdecydowałaś się wziąć udział w projekcie? </i></TD><TD> Dla frajdy z nauczenia się czegoś nowego </TD></TR>
 
-<TR style="text-align: center;> <TD><i> Co Cię napędza?</i></TD><TD> Sam fakt uczenia się i podrasowanie CV-ki </TD></TR>
+<TR style="text-align: center;> <TD><i> Co Cię napędza? </i></TD><TD> Sam fakt uczenia się i podrasowanie CV-ki </TD></TR>
 
-<TR style="text-align: center;> <TD><i> Jaki jest Twój cel?</i></TD><TD> Ukończenie projektu i zdobycie certyfikatu </TD></TR>
+<TR style="text-align: center;> <TD><i> Jaki jest Twój cel? </i></TD><TD> Ukończenie projektu i zdobycie certyfikatu </TD></TR>
 
-<TR style="text-align: center;> <TD><i> Jakie masz oczekiwania względem projektu?</i></TD><TD> Zabawa i nauka </TD></TR>
+<TR style="text-align: center;> <TD><i> Jakie masz oczekiwania względem projektu? </i></TD><TD> Zabawa i nauka </TD></TR>
 
 </TABLE>
 
