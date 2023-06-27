@@ -4,13 +4,13 @@ Zdecydowałam się wziąć udział w projekcie, ponieważ poszukuję nowych wyzw
 
 <TABLE>
 
-<TR> <TD> Dlaczego zdecydowałaś się wziąć udział w projekcie? </TD><TD> </TD></TR>
+<TR> <TD> Dlaczego zdecydowałaś się wziąć udział w projekcie? </TD><TD> Dla frajdy z nauczenia się czegoś nowego </TD></TR>
 
-<TR> <TD> Co Cię napędza? </TD><TD> </TD><TD> </TD></TR>
+<TR> <TD> Co Cię napędza? </TD><TD> Sam fakt uczenia się i podrasowanie CV-ki </TD></TR>
 
-<TR> <TD> Jaki jest Twój cel? </TD><TD> </TD></TR>
+<TR> <TD> Jaki jest Twój cel? </TD><TD> Ukończenie projektu i zdobycie certyfikatu </TD></TR>
 
-<TR> <TD> Jakie masz oczekiwania względem projektu? </TD><TD> </TD></TR>
+<TR> <TD> Jakie masz oczekiwania względem projektu? </TD><TD> Zabawa i nauka </TD></TR>
 
 </TABLE>
 
