@@ -5,7 +5,7 @@ Zdecydowałam się wziąć udział w projekcie, ponieważ poszukuję nowych wyzw
 ### Podsumowanie
 <TABLE>
 
-<TR> <TD> align="center" Dlaczego zdecydowałaś się wziąć udział w projekcie? </TD><TD> align="center" Dla frajdy z nauczenia się czegoś nowego </TD></TR>
+<TR style="text-align: center> <TD> Dlaczego zdecydowałaś się wziąć udział w projekcie? </TD><TD> Dla frajdy z nauczenia się czegoś nowego </TD></TR>
 
 <TR> <TD> align="center" Co Cię napędza? </TD><TD> align="center" Sam fakt uczenia się i podrasowanie CV-ki </TD></TR>
 
