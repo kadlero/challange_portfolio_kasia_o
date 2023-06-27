@@ -27,4 +27,3 @@
 #### Udzielono odpowiedzi dobrze na: **_<span style="color:red"> *8*</span>_** z **_<span style="color:blue"> *14*</span>_** pytań
 
 
-
