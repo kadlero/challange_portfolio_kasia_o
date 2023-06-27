@@ -19,3 +19,12 @@
 <TR> <TD><i> Jakie masz oczekiwania względem projektu? </i></TD><TD> Zabawa i nauka </TD></TR>
 
 </TABLE>
+
+## Subtask 4: Wykonania testu na stronie GET ISTQB: http://getistqb.com/quiz-purpurowy/
+
+
+
+#### Udzielono odpowiedzi dobrze na: **_<span style="color:red"> *8*</span>_** z **_<span style="color:blue"> *14*</span>_** pytań
+
+
+
