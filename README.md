@@ -24,6 +24,6 @@
 
 
 
-###### <span style="color:green"> *Udzielono odpowiedzi dobrze na:*</span> **_<span style="color:red"> *8*</span>_** z **_<span style="color:blue"> *14*</span>_** pytań
+<p><span style="color:green"> Udzielono odpowiedzi dobrze na:</span> <span style="color:red"> 8</span> z <span style="color:blue"> 14</span> pytań</p>
 
 
