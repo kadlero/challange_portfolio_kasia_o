@@ -24,6 +24,6 @@
 
 
 
-<p><span style="color:green"> Udzielono odpowiedzi dobrze na:</span> <span style="color:red"> 8</span> z <span style="color:blue"> 14</span> pytań</p>
+<h6><span style="color:green"> Udzielono odpowiedzi dobrze na:</span> <span style="color:red"> 8</span> z <span style="color:blue"> 14</span> pytań</h6>
 
 
