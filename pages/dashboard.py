@@ -3,6 +3,7 @@ from pages.base_page import BasePage
 
 class Dashboard (BasePage):
     main_page_field_xpath = "//*[@id="__next"]/div[1]/div/div/div/ul[1]/div[1]/div[2]/span"
+    main_page_logo_field_xpath = "//*[contains(@title, "Logo")]"
     add_player_button_xpath = "//*[text()="Add player"]"
     add_player_email_field_xpath = "//*[@name="email"]"
     add_player_left_leg_listbox_xpath = "//*[@role="option" and @data-value="left"]"
