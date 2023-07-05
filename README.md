@@ -29,14 +29,14 @@
 # Task 2: Selektory
 ## Subtask 2: Wyszukiwanie selektorów na stronie logowania. Wymień wszystkie elementy, które znajdują się na stronie logowania
 
-### login_hyperlink_xpath
+### login_field_xpath
 ###### //*[@id="login"]
 ###### //*[@name="login"]
 ###### //*[@id="login" or @ name="login"]
 ###### //*[@id="login" and @ name="login"]
 ###### //*[@id="__next"]/form/div/div[1]/div[1]
 ###### /html/body/div/form/div/div[1]/div[1]/div
-### password_hyperlink_xpath
+### password_field_xpath
 ###### //*[@id="password"]
 ###### //*[@name="password"]
 ###### //*[@id="__next"]/form/div/div[1]/div[2]
@@ -46,11 +46,11 @@
 ###### //*[text()="Remind password"]
 ###### //child::div/a
 ###### /html/body/div/form/div/div[1]/a
-### listbox_hyperlink_xpath
+### language_listbox_xpath
 ###### //*[@id="__next"]/form/div/div[2]/div/div
 ###### //*[@role="button"]
 ###### /html/body/div/form/div/div[2]/div/div
-### sign_in_button_hyperlink_xpath
+### sign_in_button_xpath
 ###### //*[@id="__next"]/form/div/div[2]/button/span[1]
 ###### //*[text()="Sign in"]
 ###### /html/body/div/form/div/div[2]/button/span[1]
