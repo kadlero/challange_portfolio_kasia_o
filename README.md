@@ -32,6 +32,8 @@
 ### login_hyperlink_xpath
 ###### //*[@id="login"]
 ###### //*[@name="login"]
+###### //*[@id="login" or @ name="login"]
+###### //*[@id="login" and @ name="login"]
 ###### //*[@id="__next"]/form/div/div[1]/div[1]
 ###### /html/body/div/form/div/div[1]/div[1]/div
 ### password_hyperlink_xpath
