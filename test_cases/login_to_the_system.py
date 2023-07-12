@@ -2,6 +2,7 @@ import os
 import time
 import unittest
 from selenium.webdriver.chrome.service import Service
+# from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 
 from pages.login_page import LoginPage
@@ -19,11 +20,11 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def user_login_to_the_system(self):
+    def test_login_to_the_system(self):
         user_login = LoginPage(self.driver)
         user_login.type_in_email('user07@getnada.com')
-        user_login.type_in_password('pass: Test-1234')
-        user_login.find_element(self.sign_in_button_xpath).click()
+        user_login.type_in_password('Test-1234')
+        user_login.click_on_the_sign_in_button()
 
     time.sleep(10)
 
