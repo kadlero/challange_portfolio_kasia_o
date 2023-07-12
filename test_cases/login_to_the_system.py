@@ -10,13 +10,6 @@ from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 class TestLoginPage(unittest.TestCase):
 
-    driver = None
-    driver_service = None
-
-    def __init__(self, methodName: str = ...):
-        super().__init__(methodName)
-        self.sign_in_button_xpath = None
-
     @classmethod
     def setUp(self):
         os.chmod(DRIVER_PATH, 755)
