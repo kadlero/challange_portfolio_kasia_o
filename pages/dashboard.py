@@ -34,3 +34,4 @@ def assert_element_text(self, driver, xpath, expected_text):
    element_text = element.text
    assert expected_text == element_text
 
+....
