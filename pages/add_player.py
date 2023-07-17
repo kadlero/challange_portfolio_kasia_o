@@ -3,7 +3,7 @@ from pages.base_page import BasePage
 
 class AddPlayer(BasePage):
     header_of_box = 'Add player'
-    title_of_box_xpath = "//*[@id="__next"]/div[1]/main/div[2]/form/div[1]/div/span"
+    title_of_box_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[1]/div/span"
     email_field_xpath = "//*[@name='email']"
     name_field_xpath = "//*[@name='name']"
     surname_field_xpath = "//*[@name='surname']"
