@@ -20,6 +20,7 @@ class TestLoginPage(unittest.TestCase):
         self.driver.get('https://scouts-test.futbolkolektyw.pl/en/login')
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
+
     def test_login_to_the_system(self):
         user_login = LoginPage(self.driver)
         user_login.title_of_page()  # check if the title of the opened page is correct
