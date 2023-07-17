@@ -15,5 +15,3 @@ class BasePage():
 
     def get_page_title(self):
         return self.driver.title
-
-
