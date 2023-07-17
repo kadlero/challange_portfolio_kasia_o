@@ -2,7 +2,6 @@ import os
 import time
 import unittest
 
-# from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
